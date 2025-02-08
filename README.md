@@ -1,0 +1,1 @@
+Página web simples utilizada como exercício para revisar os conteúdos principais que dão base ao HTML e CSS. As imagens foram retiradas da internet, apenas para fins ilustrativos. Os textos (com exceção das citações) eu redigi utilizando como referência o artigo https://www.legiaodosherois.com.br/lista/jogos-vorazes-10-curiosidades-franquia.html#list-item-3.
